@@ -1,0 +1,14 @@
+# Ignore Vim first level swap file
+*.swp
+
+# Ignore transitive object files from make
+*.o
+
+# Ignore transitive dependency files from make
+*.d
+
+# Ignore make target
+main
+
+# Ignore core files
+core
